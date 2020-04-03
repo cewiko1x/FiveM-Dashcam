@@ -1,0 +1,47 @@
+#Dashcam_Body {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+
+
+#Dashcam_Time {
+    position: absolute;
+    right: 10px;
+    top: 47px;
+    color: orange;
+    font-size: 35px;
+    font-weight: normal;
+}
+
+#Dashcam_CAM1 {
+    position: absolute;
+    right: 1720px;
+    top: 60px;
+    color: orange;
+    font-size: 35px;
+    font-weight: normal;
+}
+
+#Dashcam_BPD {
+    position: absolute;
+    right: 1679px;
+    top: 35px;
+    color: orange;
+    font-size: 35px;
+    font-weight: normal;
+}
+
+#Dashcam_Info {
+    position: absolute;
+    left: 50%;
+    top: calc(100% - 180px);
+    transform: translateX(-50%);
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    font-weight: normal;
+}
