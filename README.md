@@ -18,4 +18,4 @@ Windows:
 
 Press C to enable the dashcam and disable the dashcam
 
-(!DISCLAIMER! This is a modified version of github.com/xander1998 dashcam)
+(!DISCLAIMER! This is a modified version of github.com/xander1998 dashcam !DISCLAIMER!)
